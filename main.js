@@ -35,5 +35,5 @@ function draw(){
     image(moustache, noseX, noseY, 30, 30)
 }
 function take_snapshot(){
-    save("YouAreAClown.jpg");
+    save("MoustacheOnMyFace.jpg");
 }
